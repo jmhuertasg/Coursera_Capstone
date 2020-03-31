@@ -1,5 +1,9 @@
 ### Tareas calificadas por los compañeros: Segmenting and Clustering Neighborhoods in Toronto
 
+#######################################################################################################
+Notebook :### Toronto_Cluster.ipynb                                                                 ###
+#######################################################################################################
+
 For this assignment, you will be required to explore and cluster the neighborhoods in Toronto.
 
 #1. Start by creating a new Notebook for this assignment.
@@ -15,3 +19,16 @@ For this assignment, you will be required to explore and cluster the neighborhoo
 		In the last cell of your notebook, use the .shape method to print the number of rows of your dataframe.
 		
 #4. Submit a link to your Notebook on your Github repository. (10 marks)
+
+#######################################################################################################
+Notebook: ### Toronto_Cluster part 2.ipynb                                                          ###
+#######################################################################################################
+
+#5. Now that you have built a dataframe of the postal code of each neighborhood:
+		along with the borough name and neighborhood name, in order to utilize the Foursquare location data, we need to 
+		get the latitude and the longitude coordinates of each neighborhood. Given that this package can be very unreliable, 
+		in case you are not able to get the geographical coordinates of the neighborhoods using the Geocoder package, here 
+		is a link to a csv file that has the geographical coordinates of each postal code: http://cocl.us/Geospatial_data
+
+
+
