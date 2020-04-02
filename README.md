@@ -1,7 +1,7 @@
 ### Tareas calificadas por los compañeros: Segmenting and Clustering Neighborhoods in Toronto
 
 #######################################################################################################
-Notebook :### Toronto_Cluster.ipynb                                                                 ###
+Notebook :### Toronto_Cluster Practice 1.ipynb                                                      ###
 #######################################################################################################
 
 For this assignment, you will be required to explore and cluster the neighborhoods in Toronto.
@@ -21,7 +21,7 @@ For this assignment, you will be required to explore and cluster the neighborhoo
 #4. Submit a link to your Notebook on your Github repository. (10 marks)
 
 #######################################################################################################
-Notebook: ### Toronto_Cluster part 2.ipynb                                                          ###
+Notebook: ### Toronto_Cluster Practice 2.ipynb                                                      ###
 #######################################################################################################
 
 #5. Now that you have built a dataframe of the postal code of each neighborhood:
@@ -30,5 +30,12 @@ Notebook: ### Toronto_Cluster part 2.ipynb                                      
 		in case you are not able to get the geographical coordinates of the neighborhoods using the Geocoder package, here 
 		is a link to a csv file that has the geographical coordinates of each postal code: http://cocl.us/Geospatial_data
 
+#######################################################################################################
+Notebook: ### Toronto_Cluster Practice 3.ipynb                                                      ###
+#######################################################################################################
 
+#5.Explore and cluster the neighborhoods in Toronto. You can decide to work with only boroughs that contain the word Toronto and then replicate the same analysis we did to the New York City data. It is up to you.
+	Just make sure:
+		1-to add enough Markdown cells to explain what you decided to do and to report any observations you make.
+		2-to generate maps to visualize your neighborhoods and how they cluster together.
 
