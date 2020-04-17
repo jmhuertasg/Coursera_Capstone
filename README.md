@@ -34,8 +34,30 @@ Notebook: ### Toronto_Cluster Practice 2.ipynb                                  
 Notebook: ### Toronto_Cluster Practice 3.ipynb                                                      ###
 #######################################################################################################
 
-#5.Explore and cluster the neighborhoods in Toronto. You can decide to work with only boroughs that contain the word Toronto and then replicate the same analysis we did to the New York City data. It is up to you.
+#6.Explore and cluster the neighborhoods in Toronto. You can decide to work with only boroughs that contain the word Toronto and then replicate the same analysis we did to the New York City data. It is up to you.
 	Just make sure:
 		1-to add enough Markdown cells to explain what you decided to do and to report any observations you make.
 		2-to generate maps to visualize your neighborhoods and how they cluster together.
+#######################################################################################################
+Notebook: ### Capstone Project - The Battle of Neighborhoods WK1.ipynb                              ###
+#######################################################################################################
+#7.A description of the problem and a discussion of the background. 
+   A description of the data and how it will be used to solve the problem.
 
+For the second week, the final deliverables of the project will be:
+#######################################################################################################
+Notebook: ### Capstone Project - The Battle of Neighborhoods WK2.ipynb                              ###
+Files CSV :Police Facility Locations.csv, wellbeing_toronto-SAFETY-DEMOGRAPHICS.csv                 ###
+#######################################################################################################
+
+#8.For the second week, the final deliverables of the project will be:
+
+	1- A link to your Notebook on your Github repository, showing your code. (15 marks)
+	2- A full report consisting of all of the following components (15 marks):
+	3- Introduction where you discuss the business problem and who would be interested in this project.
+	4- Data where you describe the data that will be used to solve the problem and the source of the data.
+	5- Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
+	6- Results section where you discuss the results.
+	Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+	Conclusion section where you conclude the report.
+	3. Your choice of a presentation or blogpost. 
