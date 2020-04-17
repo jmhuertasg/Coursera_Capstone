@@ -49,7 +49,9 @@ For the second week, the final deliverables of the project will be:
 Notebook: ### Capstone Project - The Battle of Neighborhoods WK2.ipynb                              ###
 Files CSV :Police Facility Locations.csv, wellbeing_toronto-SAFETY-DEMOGRAPHICS.csv                 ###
 #######################################################################################################
+
 IBM Watson:https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/41e76b6e-86b9-419c-818b-4914dd2ce625/view?access_token=5a24ce310790a3c6ad4b3379bd0c76227aa1931c2718347fb00560baf1462dc2
+
 #8.For the second week, the final deliverables of the project will be:
 
 	1- A link to your Notebook on your Github repository, showing your code. (15 marks)
