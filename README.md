@@ -60,4 +60,4 @@ Files CSV :Police Facility Locations.csv, wellbeing_toronto-SAFETY-DEMOGRAPHICS.
 	6- Results section where you discuss the results.
 	Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 	Conclusion section where you conclude the report.
-	3. Your choice of a presentation or blogpost. 
+	3. Your choice of a presentation or blogpost. https://medium.com/@jmhuertasg/coursera-capstone-project-the-battle-of-neighbourhoods-83a09c51fab6
